@@ -37,5 +37,3 @@ GPT SUMMARY:
 
 ---
 
-
-Hoćeš da to napravim?
